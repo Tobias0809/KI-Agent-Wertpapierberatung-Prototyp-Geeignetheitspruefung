@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tobias0809/ai-agent-investment-advisory-suitability-check/blob/main/Prototyp_Geeignetheitspruefung.ipynb)
 
 ***Problem-Statement***
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tobias0809/ai-agent-investment-advisory-suitability-check/blob/main/Prototyp_Geeignetheitspruefung.ipynb)
+
 
 Die Finanzkrise 2008 hat gezeigt, was passiert, wenn Anlegern Produkte verkauft werden, die sie nicht verstehen und deren Verluste sie nicht tragen können. Die EU hat mit MiFID II geantwortet, in Kraft seit Januar 2018. Ihr Zweck ist der Anlegerschutz: Eine Bank darf nur Produkte empfehlen, die zum Kunden passen.
 
