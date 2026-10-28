@@ -33,19 +33,19 @@ Der Agent basiert auf smolagents und nutzt drei Werkzeuge:
 
 Beispiel: Für Lena Berger sind 4 von 15 Produkten geeignet. Eines davon ist eine nachhaltige Aktie mit negativer Hausmeinung und wird deshalb nicht vorgeschlagen. Der Bankberater bekommt 3 Vorschläge und für alles Aussortierte einen Grund.
 
-Designentscheidungen
+***Designentscheidungen***
 
-Die Entscheidung liegt im Code, nicht im Modell. Die Regeln stehen im Körper der Werkzeuge. Das Modell liest nur den Kopf (Name, Parameter, Docstring), wählt die Werkzeuge und formuliert die Antwort. Am Ergebnis kann es nichts ändern.
+***Die Entscheidung liegt im Code, nicht im Modell.*** Die Regeln stehen im Körper der Werkzeuge. Das Modell liest nur den Kopf (Name, Parameter, Docstring), wählt die Werkzeuge und formuliert die Antwort. Am Ergebnis kann es nichts ändern.
 
-Gleiche Skalen bei Kunde und Produkt. Risiko 1–7, Anlagehorizont in Jahren, Kenntnisse 1–3, Verlustrisiko 1–3, Nachhaltigkeit 0–2. Ohne gemeinsame Skala gibt es kein verlässliches Mapping.
+***Gleiche Skalen bei Kunde und Produkt.*** Risiko 1–7, Anlagehorizont in Jahren, Kenntnisse 1–3, Verlustrisiko 1–3, Nachhaltigkeit 0–2. Ohne gemeinsame Skala gibt es kein verlässliches Mapping.
 
-Zwei Stufen. Stufe A ist die Geeignetheitsprüfung, die MiFID II verlangt. Stufe B ist eine Vorgabe der Bank, die Hausmeinung aus dem Research. Die Hausmeinung ist ein Datenfeld, keine Prognose der KI.
+***Zwei Stufen.*** Stufe A ist die Geeignetheitsprüfung, die MiFID II verlangt. Stufe B ist eine Vorgabe der Bank, die Hausmeinung aus dem Research. Die Hausmeinung ist ein Datenfeld, keine Prognose der KI.
 
-Datenminimierung. Die Kundendatenbank enthält nur die Felder, die für die Prüfung nötig sind. Kein Geschlecht, keine Adresse.
+***Datenminimierung.*** Die Kundendatenbank enthält nur die Felder, die für die Prüfung nötig sind. Kein Geschlecht, keine Adresse.
 
-Nachvollziehbarkeit. Jeder Werkzeugaufruf landet mit Zeit, Eingabe und Ergebnis im Audit-Log (audit_log.json).
+***Nachvollziehbarkeit.*** Jeder Werkzeugaufruf landet mit Zeit, Eingabe und Ergebnis im Audit-Log (audit_log.json).
 
-Human-in-the-Loop. Der Agent schlägt vor, der Bankberater entscheidet und gibt frei.
+***Human-in-the-Loop.*** Der Agent schlägt vor, der Bankberater entscheidet und gibt frei.
 
 ***Starten***
 Notebook über den Colab-Button öffnen
