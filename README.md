@@ -25,10 +25,11 @@ Der Bankberater gibt nur einen Namen oder eine Kundennummer ein. Der Agent sucht
 
 Der Agent basiert auf smolagents und nutzt drei Werkzeuge:
 
-Werkzeug	Was es tut
-kunde_suchen	Sucht das Anlageprofil nach Name oder Kundennummer
-geeignetheit_pruefen	Prüft alle Produkte nach festen Regeln und nennt für jedes aussortierte Produkt den Grund
-vorschlaege_auswaehlen	Schließt Produkte mit negativer Hausmeinung aus und wählt bis zu drei Vorschläge
+| Werkzeug | Was es tut |
+|---|---|
+| `kunde_suchen` | Sucht das Anlageprofil nach Name oder Kundennummer |
+| `geeignetheit_pruefen` | Prüft alle Produkte nach festen Regeln und nennt für jedes aussortierte Produkt den Grund |
+| `vorschlaege_auswaehlen` | Schließt Produkte mit negativer Hausmeinung aus und wählt bis zu drei Vorschläge |
 
 Beispiel: Für Lena Berger sind 4 von 15 Produkten geeignet. Eines davon ist eine nachhaltige Aktie mit negativer Hausmeinung und wird deshalb nicht vorgeschlagen. Der Bankberater bekommt 3 Vorschläge und für alles Aussortierte einen Grund.
 
