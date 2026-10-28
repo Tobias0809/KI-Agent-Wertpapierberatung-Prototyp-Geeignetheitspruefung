@@ -5,11 +5,11 @@ Die Finanzkrise 2008 hat gezeigt, was passiert, wenn Anlegern Produkte verkauft 
 
 Dieser Schutz bedeutet Arbeit. Vor jeder Empfehlung muss der Bankberater:
 
-Kenntnisse und Erfahrungen, finanzielle Verhältnisse inklusive Verlusttragfähigkeit sowie Anlageziele inklusive Risikobereitschaft des Kunden erfassen
-die Nachhaltigkeitspräferenzen abfragen, Pflicht seit August 2022
-jedes Produkt gegen dieses Profil prüfen
-dem Kunden eine Geeignetheitserklärung aushändigen, die begründet, warum das Produkt passt
-die Beratung aufzeichnen, damit sie später überprüfbar ist
+- Kenntnisse und Erfahrungen, finanzielle Verhältnisse inklusive Verlusttragfähigkeit sowie Anlageziele inklusive Risikobereitschaft des Kunden erfassen
+- die Nachhaltigkeitspräferenzen abfragen, Pflicht seit August 2022
+- jedes Produkt gegen dieses Profil prüfen
+- dem Kunden eine Geeignetheitserklärung aushändigen, die begründet, warum das Produkt passt
+- die Beratung aufzeichnen, damit sie später überprüfbar ist
 
 Vieles davon ist Handarbeit: Daten aus mehreren Systemen zusammensuchen, Profile mit Produktdaten abgleichen, Dokumentation schreiben. Und die Fallhöhe ist groß. Eine falsche Prüfung ist kein Flüchtigkeitsfehler, sondern ein Compliance-Verstoß.
 
