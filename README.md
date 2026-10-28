@@ -60,6 +60,6 @@ Fiktive Kunden und Produkte, stark vereinfachte Regeln
 Keine Anbindung an echte Systeme, kein Login
 Keine Evaluation der Antworten des Modells
 Ein Prototyp, der das Prinzip zeigt, keine Rechtsberatung
-Stack
 
+***Stack***
 Python, smolagents, SQLite, pandas, Qwen2.5-Coder-32B-Instruct über die Hugging Face Inference API.
