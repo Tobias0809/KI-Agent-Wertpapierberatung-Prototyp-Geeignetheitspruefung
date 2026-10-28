@@ -1,4 +1,7 @@
 ***Regeln entscheiden. KI erklärt. – Ein KI-Agent für die Geeignetheitsprüfung nach MiFID II***
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tobias0809/ai-agent-investment-advisory-suitability-check/blob/main/Prototyp_Geeignetheitspruefung.ipynb)
+
 ***Problem-Statement***
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tobias0809/ai-agent-investment-advisory-suitability-check/blob/main/Prototyp_Geeignetheitspruefung.ipynb)
 
